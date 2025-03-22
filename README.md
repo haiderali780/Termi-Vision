@@ -17,7 +17,7 @@ Termi-Vision is a terminal-based application designed for seamless audio and scr
 1. **Clone the Repository & Create Virtual Environment**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/haiderali780/Termi-Vision.git
    cd Termi-Vision
    python -m venv venv
    ```
